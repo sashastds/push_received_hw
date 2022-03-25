@@ -23,7 +23,7 @@ docker build -t best_push_time:dev .
 
 ## Тетрадка с исследованием: 
 
-`Nalitkin-AS Push Task EDA.ipynb`
+[colab](https://colab.research.google.com/drive/1Mr-WuGHGmQY2g9J-5diibpU-RpjgcPz_)
 
 ## Контейнер
 
